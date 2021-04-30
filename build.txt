@@ -1,0 +1,3 @@
+displayName = Prismatic Rival Players
+author = Solid Wires
+version = 0.1
